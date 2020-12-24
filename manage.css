@@ -1,6 +1,7 @@
 body{
     font-family: 'Utah MT Cond';
     text-align: center;
+    list-style: circle;
 }
 
 .fa{
@@ -34,4 +35,9 @@ img{
 
 p{
     font-size: 2em;
+}
+
+li{
+    padding-left: 50px;
+    text-align: left;
 }
