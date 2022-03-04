@@ -16,7 +16,7 @@ Vue.component('links', {
     template: `
         <div>
             <a href="https://github.com/brandanteng" target="https://github.com/brandanteng"><i class="fa fa-github"></i></a>
-            <a href="www.linkedin.com/in/brandanteng" target="https://www.linkedin.com/in/brandanteng"><i class="fa fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/brandanteng" target="https://www.linkedin.com/in/brandanteng"><i class="fa fa-linkedin"></i></a>
             <a href="https://www.instagram.com/brandanteng/" target="https://www.instagram.com/brandanteng/"><i class="fa fa-instagram"></i></a>
         </div>
     `
